@@ -1,0 +1,23 @@
+01. git init
+02. git add
+03. git commit -m "Put comments"
+04. git push origin master
+04. git status
+05. git remote
+06. git push
+07. git clone
+08. git branch
+09. git checkout
+10. git log
+11. git stash
+12. git revert
+13. git diff
+14. git merge
+15. git rebase
+16. git fetch
+17. git reset
+18. git pull
+19. git remote add origin <git link>
+20. git remote -v
+21. git help
+
